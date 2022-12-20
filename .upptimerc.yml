@@ -3,6 +3,8 @@ repo: upptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
+  - name: Realme Webgradients API
+  - url: https://realme-ten.vercel.app/api/v1/webgradients.svg?desc=happy%20hacking&radialgradiets=true&subtitle=indiehackers&title=hello%20world&webgradientsName=FrozenDreams
 assignees: # Users to assign downtime issues (optional)
   - JiangWeixian
 status-website:
