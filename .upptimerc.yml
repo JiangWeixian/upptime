@@ -4,7 +4,18 @@ sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
 assignees: # Users to assign downtime issues (optional)
-  - AnandChowdhary
-status-website: # Status website (optional)
-  cname: upptime.js.org # Custom domain CNAME
-  name: Upptime # Status website title
+  - JiangWeixian
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
+  logoUrl: https://avatars.githubusercontent.com/u/6839576?s=40&v=4
+  name: JiangWeixian Upptime Dashboard
+  introTitle: ""
+  introMessage: ""
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
