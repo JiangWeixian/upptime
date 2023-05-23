@@ -1,7 +1,7 @@
 url: https://realme-ten.vercel.app/api/v1/webgradients.svg?desc=happy%20hacking&radialgradiets=true&subtitle=indiehackers&title=hello%20world&webgradientsName=FrozenDreams
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-05-23T07:43:40.226Z
+status: up
+code: 200
+responseTime: 1413
+lastUpdated: 2023-05-23T07:50:37.482Z
 startTime: Tue Dec 20 2022 04:44:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
