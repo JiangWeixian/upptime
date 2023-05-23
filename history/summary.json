@@ -22,10 +22,10 @@
     "url": "https://realme-ten.vercel.app/api/v1/webgradients.svg?desc=happy%20hacking&radialgradiets=true&subtitle=indiehackers&title=hello%20world&webgradientsName=FrozenDreams",
     "icon": "https://icons.duckduckgo.com/ip3/realme-ten.vercel.app.ico",
     "slug": "realme-webgradients-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1118,
@@ -33,16 +33,18 @@
     "timeWeek": 1169,
     "timeMonth": 1110,
     "timeYear": 1118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 1
+    }
   },
   {
     "name": "Blog",
     "url": "https://jwx.ink",
     "icon": "https://icons.duckduckgo.com/ip3/jwx.ink.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 474,
     "timeMonth": 596,
     "timeYear": 559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 0
+    }
   }
 ]
