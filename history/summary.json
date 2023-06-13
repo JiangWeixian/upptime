@@ -22,18 +22,20 @@
     "url": "https://realme-ten.vercel.app/api/v1/webgradients.svg?desc=happy%20hacking&radialgradiets=true&subtitle=indiehackers&title=hello%20world&webgradientsName=FrozenDreams",
     "icon": "https://icons.duckduckgo.com/ip3/realme-ten.vercel.app.ico",
     "slug": "realme-webgradients-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1131,
-    "timeDay": 1409,
-    "timeWeek": 1326,
-    "timeMonth": 1182,
-    "timeYear": 1131,
-    "dailyMinutesDown": {}
+    "time": 1163,
+    "timeDay": 4117,
+    "timeWeek": 2014,
+    "timeMonth": 1353,
+    "timeYear": 1163,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   },
   {
     "name": "Blog",
