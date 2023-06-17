@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 174,
-    "timeWeek": 131,
-    "timeMonth": 123,
+    "timeDay": 72,
+    "timeWeek": 93,
+    "timeMonth": 114,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -24,15 +24,15 @@
     "slug": "realme-webgradients-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "94.01%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
-    "time": 1234,
-    "timeDay": 4889,
-    "timeWeek": 2951,
-    "timeMonth": 1695,
-    "timeYear": 1234,
+    "time": 1235,
+    "timeDay": 1501,
+    "timeWeek": 3343,
+    "timeMonth": 1753,
+    "timeYear": 1235,
     "dailyMinutesDown": {
       "2023-06-13": 86
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
-    "timeDay": 710,
-    "timeWeek": 601,
-    "timeMonth": 463,
+    "timeDay": 579,
+    "timeWeek": 544,
+    "timeMonth": 457,
     "timeYear": 545,
     "dailyMinutesDown": {}
   }
