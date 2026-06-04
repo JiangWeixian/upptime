@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 59,
+    "timeDay": 68,
     "timeWeek": 76,
-    "timeMonth": 83,
+    "timeMonth": 82,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1326,
-    "timeDay": 1386,
-    "timeWeek": 1369,
+    "time": 1327,
+    "timeDay": 1416,
+    "timeWeek": 1378,
     "timeMonth": 1364,
-    "timeYear": 1318,
+    "timeYear": 1319,
     "dailyMinutesDown": {}
   },
   {
@@ -40,20 +40,21 @@
     "url": "https://jwx.ink",
     "icon": "https://icons.duckduckgo.com/ip3/jwx.ink.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
-    "time": 511,
+    "uptimeYear": "99.46%",
+    "time": 512,
     "timeDay": 204,
     "timeWeek": 418,
-    "timeMonth": 439,
+    "timeMonth": 441,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2025-06-06": 1385,
-      "2025-06-05": 1440
+      "2025-06-05": 1440,
+      "2026-06-04": 0
     }
   }
 ]
